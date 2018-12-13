@@ -1,3 +1,4 @@
+https://drive.google.com/open?id=16B0xQYHhCgK8uhbW09cba6v0ZFaMMZ8a
 ## Получение данных
 Скачал данные отсюда, данные просто загружены с MNIST в CSV  :- https://pjreddie.com/projects/mnist-in-csv/.
 
